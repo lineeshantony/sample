@@ -1,0 +1,5 @@
+com\barclays\student\management\service\StudentController.class
+com\barclays\student\management\dao\StudentDAO.class
+com\barclays\student\management\dao\StudentRepository.class
+com\barclays\student\management\model\Student.class
+com\barclays\student\management\StudentManagementApplication.class
